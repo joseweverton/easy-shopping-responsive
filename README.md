@@ -6,4 +6,4 @@ O menu de navegação é oculto e a imagem se reposiciona dentro do container de
 
 Trata-se de uma aplicação básica para simulação mobile, onde os componentes da pagina podem tomar outras formas para se adaptarem ao novo formato de navegação compactado.
 
-link de acesso a aplicação: https://joseweverton.github.io/projeto-easy-shopping/
+link de acesso a aplicação: https://joseweverton.github.io/easy-shopping-responsive/
